@@ -73,35 +73,6 @@ Random Forest is the collection of many decision trees where at each candidate s
 #### Logistic Regression
 Logistic Regression is one of the effective model for linear classification problems. Logistic regression provides the weights of each features that are responsible for discriminating each class.
 
-Below are the word cloud visualization for IMDB datasets using Random Forest and Logistic Regression.
-<img src="Reports/wordcloud/wordcloudafterclassifier.png" width="200">
-
-**Important words for sentiment classification.**
-
-<img src="Reports/wordcloud/wordcloudLogRegressionPos.png" width="200">
-
-**Important words for positive class.**
-
-<img src="Reports/wordcloud/wordcloudLogRegressionNeg.png" width="200">
-
-**Important words for negative class.**
-
-
-Below are the word cloud visualization for twitter using Logistic Regression.
-
-<img src="Reports/wordcloudTwitter/neturalBalanced.png" width="200">
-
-**Important words for neutral class.**
-
-<img src="Reports/wordcloudTwitter/pleasantBalanced.png" width="200">
-
-**Important words for pleasant class.**
-
-<img src="Reports/wordcloudTwitter/unpleasantBalanced.png" width="200">
-
-**Important words for unpleasant class.**
-
-
 ### Deployed NLP Models
 
 For sentiment analysis modeling, we have employed **three deep NLP** based models, as follows:
