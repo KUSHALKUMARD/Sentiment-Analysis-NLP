@@ -46,7 +46,7 @@ Binary and Multi-class Sentiment Analysis System
 
 ### Used Datasets
 
-We have used two datasets for sentiment analysis task. 
+I'm have used two datasets for sentiment analysis task. 
 
 <ul>
 <li>IMDB Reviews dataset with binary sentiment labels (Positive, Negative reviews) [3]</li>
@@ -176,6 +176,6 @@ We used following three models for the movie recommendation system.
 Conclusion
 ------------
 
-We performed two different tasks during this project, Binary/Multi-class Sentiment Analysis and Movies Recommendation system. During seniment analysis task, we tried both conventional Machine Learning algorithms (Logistic Regression, Random Forest) as well as current state-of-the-art deep learning based NLP methods (RNN Baseline, AvgNet, CNet). We observed that both types of methods perform pretty effective with reasonable results and accuracy. Also, the automated wordcloud plots give valuable insights about the sentiment present in the used datasets. The automated sentiment extraction process from movie reviews or tweets can prove really helpful for businesses in improving their products based on customer's reviews and feedback with much efficiency and effectivness.
+I'm performed two different tasks during this project, Binary/Multi-class Sentiment Analysis and Movies Recommendation system. During seniment analysis task, we tried both conventional Machine Learning algorithms (Logistic Regression, Random Forest) as well as current state-of-the-art deep learning based NLP methods (RNN Baseline, AvgNet, CNet). We observed that both types of methods perform pretty effective with reasonable results and accuracy. Also, the automated wordcloud plots give valuable insights about the sentiment present in the used datasets. The automated sentiment extraction process from movie reviews or tweets can prove really helpful for businesses in improving their products based on customer's reviews and feedback with much efficiency and effectivness.
 
 
